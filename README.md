@@ -38,3 +38,20 @@ This project develops and implements the **Vasicek** and **Cox–Ingersoll–Ros
 ---
 
 ## 📂 Repository Structure  
+
+
+---
+
+## 🔧 Tools & Skills  
+- Microsoft Excel (advanced modeling & simulation)  
+- Monte Carlo Simulation  
+- Maximum Likelihood Estimation (MLE)  
+- Quantitative Finance & Risk Modeling  
+- Stochastic Processes & Time Series  
+
+---
+
+## 🏷️ Tags / Keywords  
+#QuantFinance #FinancialModeling #InterestRateModeling #StochasticProcesses #MonteCarloSimulation #MLE #ExcelModeling #RiskManagement  
+
+---
